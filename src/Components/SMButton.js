@@ -1,5 +1,5 @@
-function SMButton(props) {
-    return <button onClick={props.buttonClick}>{props.buttonValue}</button>;
-  }
-  
-  export default SMButton;
+// function SMButton(props){
+//   return <button onClick={props.buttonClick}>{props.val}</button>
+// }
+
+// export default SMButton;
